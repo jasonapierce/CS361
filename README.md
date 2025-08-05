@@ -38,6 +38,7 @@ response = requests.get("http://127.0.0.1:5000/stop-timer", params={
 print(response.json())
 # → {"stop_time": "2025-08-04T19:31:12.987654-04:00", "elapsed_seconds": 72.86}
 
+![UML Diagram](UML Diagram.png)
 
 
 
