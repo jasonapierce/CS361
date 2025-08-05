@@ -56,7 +56,7 @@ print(response.json())
 
 ## ✅ Mitigation Plan
 
-- **Teammate this was built for:** [INSERT NAME]
+- **Teammate this was built for:** [John]
 - **Current status:** ✅ Done and tested.
 - **Access Instructions:**
   - Clone the repo: [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
@@ -71,7 +71,7 @@ print(response.json())
   - Your client code must send HTTP requests to `http://127.0.0.1:5000`.
 
 - **What to do if microservice is inaccessible:**  
-  Contact me directly via Slack or email.  
+  Contact me directly via Teams or email.  
   I am available daily from **10 AM – 10 PM (PST)**.
 
 - **Deadline for reporting issues:**  
